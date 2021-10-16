@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
         
         //mohammad khosh
     }
+
+    private void main(){
+        //this is first metod
+    }
 }
